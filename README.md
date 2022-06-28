@@ -1,3 +1,4 @@
-# MGTR-master
+# MGTR
 An official implement of the paper "MGTR: End-to-end Mutual Gaze Detection with Transformer".
-Code will come soon~
+
+Code is comming soon~
